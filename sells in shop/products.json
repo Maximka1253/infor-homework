@@ -1,0 +1,12 @@
+[
+    {"name": "Хлеб", "category": "Еда", "price": 50, "qty": 100},
+    {"name": "Молоко", "category": "Еда", "price": 80, "qty": 50},
+    {"name": "Сыр", "category": "Еда", "price": 200, "qty": 20},
+    {"name": "Яблоки", "category": "Фрукты", "price": 120, "qty": 40},
+    {"name": "Бананы", "category": "Фрукты", "price": 110, "qty": 35},
+    {"name": "Шоколад", "category": "Сладости", "price": 150, "qty": 25},
+    {"name": "Печенье", "category": "Сладости", "price": 90, "qty": 60},
+    {"name": "Сок", "category": "Напитки", "price": 130, "qty": 45},
+    {"name": "Вода", "category": "Напитки", "price": 40, "qty": 100},
+    {"name": "Кофе", "category": "Напитки", "price": 300, "qty": 15}
+]
